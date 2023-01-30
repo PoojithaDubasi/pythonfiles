@@ -12,7 +12,7 @@ print(d)
 arr=[]
 for i in range(n):
     username=input("Username:")
-    password=input("password:")
+      password=input("password:")
     arr.append({username,password})
 print(arr)
 """
