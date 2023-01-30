@@ -1,0 +1,14 @@
+1.Factorial of a number
+2.Fibonacci series
+3.Prime or not
+4.write a python program to remove an empty tuple(s) from alist of tuples
+5.To calculate the average of the numbers in the given list
+6.write a python program to print a specified list after removing the 0Th,4th and 5th elements.
+   sample list:      ['red','green','white','black','pink','yellow']
+   expected output:  ['green','white','black']
+7.to generate all permutations of a list in python
+8.to calculate the product,multiplying all the numbers of a given tuple
+9.counting repeated characters in a string
+10.reverse of a string if its length is a multiple of 4
+11.to separate even odd and zeros from a list
+12.split a given dictionary of lists into list of dictionaries

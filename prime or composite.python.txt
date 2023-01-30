@@ -1,0 +1,9 @@
+n=int(input("enter a number"))
+c=0
+for i in rangr(1,n+1):
+if n%i==0:
+c=c+1
+ifc==2:
+print(n,"is a prime number")
+else:
+print(n,"is a composite number")
